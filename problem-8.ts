@@ -9,5 +9,7 @@
 
   const person = { name: 'Alice', age: 25, email: 'alice@example.com' };
   const isValid = validateKeys(person, ['name', 'age']);
+
   console.log(isValid);
+  //
 }

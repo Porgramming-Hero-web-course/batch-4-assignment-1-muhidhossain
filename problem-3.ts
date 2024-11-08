@@ -10,6 +10,7 @@
     'I love typescript. TypeScript is my favorite language. I love the TypeScript community.';
   const word = 'typescript';
   const count = countWordOccurrences(sentence, word);
+
   console.log(count);
   //
 }

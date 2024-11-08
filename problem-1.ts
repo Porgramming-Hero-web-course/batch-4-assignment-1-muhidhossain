@@ -6,6 +6,7 @@
 
   const testArray = [1, 2, 3, 4, 5];
   const sum = sumArray(testArray);
-  console.log(sum); // 15
+
+  console.log(sum);
   //
 }

@@ -19,6 +19,7 @@
     email: 'alice@example.com',
   };
   const updatedProfile = updateProfile(profile, { age: 26 });
+
   console.log(updatedProfile);
   //
 }
